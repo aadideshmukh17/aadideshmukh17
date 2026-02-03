@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science major and Public Health minor at Northeastern University.<br>I am interested in data analysis, ML, Big Data, and software applications, especially in the public health and urbanism fields.
+Computer Science major and Public Health minor at Northeastern University.<br>I am interested in data analysis, ML, Big Data, and software applications, especially in the public health and urbanism fields. I am currently working on a project using Python, Pandas, and an API to track on-time performance of buses in Chicago.
 
 
 ## 🌐 Socials:
